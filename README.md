@@ -21,4 +21,4 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 * Você pode usar qualquer abordagem que achar necessária para o desenvolvimento das telas.
 
 ## PRINTS 
-![] (/print_telas/home.png)
+![](/print_telas/home.jpg)
