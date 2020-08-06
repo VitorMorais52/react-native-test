@@ -30,7 +30,7 @@ export default function home({navigation}){
     function selectId(friend){
             dispatch({type: 'SET_ID', data: friend});
             navigation.navigate('friend_profile', friend); 
-            console.log('clicked');
+   
       }
 
     renderItem = ({item}) => (  
