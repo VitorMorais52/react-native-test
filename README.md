@@ -20,5 +20,5 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 * O uso de React Redux é obrigatório para manter o state do aplicativo.
 * Você pode usar qualquer abordagem que achar necessária para o desenvolvimento das telas.
 
-##PRINTS 
-![](./print_telas/home.png)
+## PRINTS 
+![] (/print_telas/home.png)
