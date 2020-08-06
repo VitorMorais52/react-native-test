@@ -19,3 +19,7 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 * Para consumo dos dados usar o [Json Placeholder](https://jsonplaceholder.typicode.com/).
 * O uso de React Redux é obrigatório para manter o state do aplicativo.
 * Você pode usar qualquer abordagem que achar necessária para o desenvolvimento das telas.
+
+##PRINTS 
+
+![] https://github.com/VitorMorais52/react-native-test/blob/master/print_telas/home.jpg
