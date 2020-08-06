@@ -22,3 +22,5 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 
 ## PRINTS 
 ![](/print_telas/home.jpg)
+![](/print_telas/profile.jpg)
+![](/print_telas/friend_profile.jpg)
