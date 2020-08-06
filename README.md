@@ -21,5 +21,4 @@ Página onde o usuário pode alterar seus dados cadastrais, informando a sua ima
 * Você pode usar qualquer abordagem que achar necessária para o desenvolvimento das telas.
 
 ##PRINTS 
-
-![] https://github.com/VitorMorais52/react-native-test/blob/master/print_telas/home.jpg
+![](./print_telas/home.png)
